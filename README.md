@@ -1,2 +1,4 @@
 # Match-Card-Game
-Match Card Game
+
+Simple card matching game
+
